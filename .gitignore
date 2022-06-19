@@ -19,6 +19,7 @@
 *.suo
 .vs
 
+
 # Linker output
 *.ilk
 *.map
