@@ -6,6 +6,18 @@
 *.ko
 *.obj
 *.elf
+*.vcxproj
+*.filters
+*.user
+*.sln
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.json
+*.sqlite
+*.suo
+.vs
 
 # Linker output
 *.ilk
